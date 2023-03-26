@@ -9,7 +9,7 @@
 
   @media (min-width: 620px) {
     .place__content {
-      grid-template-columns: 340px 1fr; 
+      grid-template-columns: 340px 1fr;
       max-width: calc(100% - 24px*2);
       gap: 48px 28px;
      }

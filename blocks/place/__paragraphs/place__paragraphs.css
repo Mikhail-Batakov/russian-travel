@@ -1,7 +1,7 @@
 .place__paragraphs {
     margin: 0 auto;
     display: flex;
-    flex-direction: column;  
+    flex-direction: column;
     gap: 25px;
     max-width: calc(100% - 16px*2);
    
