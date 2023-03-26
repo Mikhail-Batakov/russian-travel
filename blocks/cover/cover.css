@@ -1,0 +1,20 @@
+.cover {
+  padding-top: 66px;
+    
+  } 
+
+  @media (min-width: 768px) {
+    .cover {
+      padding-top: 90px;
+      
+    } 
+  
+  }
+  
+  @media (min-width: 1024px) {
+    .cover {
+      padding-top: 92px;
+      
+    } 
+   
+  }

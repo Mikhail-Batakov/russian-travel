@@ -1,0 +1,25 @@
+.place {
+  padding-left: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+
+}
+
+@media (min-width: 620px) {
+   .place {
+    gap: 73px;
+  
+  }
+ 
+}
+
+@media (min-width: 1024px) {
+  .place {
+    gap: 80px;
+  
+  }
+
+}
