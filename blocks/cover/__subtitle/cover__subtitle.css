@@ -15,12 +15,3 @@
   
   }
   
-  @media (min-width: 1024px) {
-  .cover__subtitle {
-    font-size: 18px;
-    line-height: 22px;
-    max-width: 360px;
-  }
-    
-  }
-  
